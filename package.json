@@ -1,8 +1,14 @@
 {
-  "name" : "connect-auth",
-  "description" : "Middleware for Connect (node.js) for handling your authentication needs.",
+  "name" : "connect-auth-evanp",
+  "description" : "Middleware for Connect (node.js) for handling your authentication needs (evanp fork).",
   "version" : "0.5.2",
   "author" : "Ciaran Jessup <ciaranj@gmail.com>",
+  "contributors": [ 
+    {
+      "name": "Evan Prodromou",
+      "email": "evan@status.net"
+    } 
+  ],
   "engines" : {"node" : ">=0.6.0"}, 
   "main" : "lib/index.js",
   "directories" : { "lib" : "./lib" },
@@ -13,6 +19,6 @@
   },
   "repository" : {
       "type":"git"
-    , "url":"http://github.com/ciaranj/connect-auth.git"
+    , "url":"http://github.com/evanp/connect-auth.git"
   }
 }
