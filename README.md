@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/evanp/connect-auth.png)](http://travis-ci.org/evanp/connect-auth)
 connect-auth
 ============
 
